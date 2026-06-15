@@ -1,0 +1,14 @@
+NAME:
+   unbind-service - Unbind a service instance from an app
+
+USAGE:
+   cf unbind-service APP_NAME SERVICE_INSTANCE
+
+ALIAS:
+   us
+
+OPTIONS:
+   --wait, -w      Wait for the operation to complete
+
+SEE ALSO:
+   apps, delete-service, services

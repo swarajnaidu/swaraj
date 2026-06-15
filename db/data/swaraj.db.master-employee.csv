@@ -1,0 +1,6 @@
+ID,nameFirst,nameMiddle,nameLast,nameInitials,sex,language,phoneNumber,email,loginName,Currency_code,salaryAmount,accountNumber,bankId,bankName
+a1b2c3d4-0001-4000-8000-000000000001,Rohan,,Sharma,RS,m,E,+91-9876543210,rohan.sharma@example.com,rsharma01,INR,55000.00,1234567890123456,SBIN0001234,State Bank of India
+a1b2c3d4-0001-4000-8000-000000000002,Priya,K,Verma,PKV,f,E,+91-9876543211,priya.verma@example.com,pverma02,INR,62000.00,2345678901234567,HDFC0005678,HDFC Bank
+a1b2c3d4-0001-4000-8000-000000000003,Arjun,,Patel,AP,m,E,+91-9876543212,arjun.patel@example.com,apatel03,INR,48000.00,3456789012345678,ICIC0009876,ICICI Bank
+a1b2c3d4-0001-4000-8000-000000000004,Sneha,R,Reddy,SRR,f,E,+91-9876543213,sneha.reddy@example.com,sreddy04,INR,71000.00,4567890123456789,AXIS0001122,Axis Bank
+a1b2c3d4-0001-4000-8000-000000000005,Vikram,,Singh,VS,m,E,+91-9876543214,vikram.singh@example.com,vsingh05,INR,58000.00,5678901234567890,PUNB0003344,Punjab National Bank
